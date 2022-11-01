@@ -11,3 +11,7 @@ Python - Keras - Tensorflow - FastAPI - Django;
 MySQL - PostGreSQL - MongoDB
 HTML - CSS - JavaScript - JSON;
 Docker - Virtualização de Máquinas - Configuração de Servidores.
+
+
+## My Linkedin:
+https://www.linkedin.com/in/wervertonfreitasgomes/
