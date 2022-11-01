@@ -1,9 +1,8 @@
 # Olá! Werverton aqui!
 
-### O que eu tenho feito da minha vida?
+### Últimas atualizações
 
-Atualmente trabalho como desenvolvedor Python PJ para FWK Innovation Design e também sou funcionário público em uma instituição de ensino.
-Também estou tentando concluir um curso de metrado em computação aplicada, com uma linha de pesquisa que pretende realizar uma comparação entre diversas arquiteturas de redes neurais aplicadas na performance de testes de interface gráfica de aplicativos principalmente do S.O Android.
+Atualmente trabalhando como desenvolvedor back end, tendo como principais linguagens Python e Java. Trabalhando em um projeto utilizando a Stack FARM (Fastapi-React-Mongodb) e recentemente ingressei na empresa Accenture para desenvolver projetos utilizando Java, Camel, Spring Boot em conjunto com diversas ferramentas de DevOps que fazem parte do workflow da equipe. Também sou funcionário público no cargo de Técnico de TI no IFPA campus CDA (atualmente de licença), buscando melhorias na infraestrutura e nos serviços de TI prestados. Concomitantemente cursando mestrado em Computação aplicada no NDAE UFPA - Tucuruí com a linha de pesquisa em Redes Neurais Recorrentes (LSTM) para modelagem de sequenciamento de interações de usuários na interface gráfica de aplicativos. 
 
 
 ### Principais tecnologias e linguagens que tenho experiência:
